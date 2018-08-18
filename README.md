@@ -1,0 +1,3 @@
+# vRops-Insert-Custom-Properties
+Importing metadata as properties for use in reports, views, dashboards, custom groups etc...
+Details can be found here: https://vman.ch/vrops-suite-api-properties-import/
